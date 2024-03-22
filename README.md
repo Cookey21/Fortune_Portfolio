@@ -1,11 +1,11 @@
 # Fortune Portfolio
 
 # [Project 1: Call Center Analysis](https://github.com/Cookey21/Fortune_Portfolio/tree/main/Project1%3ACallCenterAnalysis)
-This is a personal project to carry out analysis on a call center records
-*The data set was exported from an excel workbook. 
-*A few data cleaning was done with the use of power query, this cleaning included replacing values, renaming columns and filtering rows. 
-*Data visualization was carried out using microsoft Powerbi. 
-*The datasetfor this project was lost which is why it was not uploaded.
+This is a personal project to carry out analysis on a call center records.
+* The data set was exported from an excel workbook. 
+* A few data cleaning was done with the use of power query, this cleaning included replacing values, renaming columns and filtering rows.
+* Data visualization was carried out using microsoft Powerbi. 
+* The datasetfor this project was lost which is why it was not uploaded.
 
 # [Project 2: Gender Disparity Among Nobel Prize Winners](https://github.com/Cookey21/Fortune_Portfolio/tree/main/Project2%3ANobel%20Prize%20Winners)
  The project was done as a group during my Tech4Dev data analysis bootcamp.
