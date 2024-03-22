@@ -1,3 +1,3 @@
-#Fortune_Portfolio
+# Fortune Portfolio
 
-#Project 1:
+# Project 1: Call Center Analysis
