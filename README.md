@@ -12,7 +12,7 @@ This is a personal project to carry out analysis on a call center records.
 * This analyses was done to show the gender disparities when giving nobel prizes within the year 1901 to 2019. 
 * The dataset was downloaded from kaggle and was uploaded in the project 2 file. 
 * Some research questions were drafted out to guide our analyses before data cleaning process was done with the use of power query and visualization to display a clear view of the differences amongst gender when giving nobel prize awards.
-# [Project 3: Hotel Reservation]
+# [Project 3: Hotel Reservation](https://github.com/Cookey21/Fortune_Portfolio/tree/main/Hotel%20Reservation)
 This was my first project with the use of tableau.
 * The dataset was gotten from a data scientist on github called DamiOfLagos.
 * The dataset didn't require much cleaning so it was imported into tableau directly.
